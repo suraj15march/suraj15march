@@ -1,17 +1,28 @@
+<!-- ![logo]() -->
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/suraj15march/suraj15march/coding1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj15march&label=Profile%20views&color=0e75b6&style=flat" alt="suraj15march" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj15march" alt="suraj15march" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj15march" alt="suraj15march" /></a> </p> -->
 
-- 🔭 I’m currently working as Software Devloper at **IBM (India Software Lab)**
+- 🔭 I’m a **Software Devloper** currently working at **IBM (India Software Lab)**
 
 - 🌱 I’m currently learning **GenAi and Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
+  
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/suraj15march)**
 
-### Blogs posts
+<!-- - 📝 I regularly write articles on [#](#)
+
+- 📄 Know about my experiences [#](#)
+
+- ⚡ Fun fact **#** -->
+
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
