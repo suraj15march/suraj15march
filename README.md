@@ -1,5 +1,5 @@
-<!-- ![logo]() -->
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+![logo](logo.png)
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="coding1.gif">
@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj15march" alt="suraj15march" /></a> </p> -->
 
-- 🔭 I’m a **Software Devloper** currently working at **IBM (India Software Lab)**
+- 🔭 I’m currently working at **IBM (India Software Lab)**
 
 - 🌱 I’m currently learning **GenAi and Prompt Engineering**
 
