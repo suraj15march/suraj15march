@@ -80,10 +80,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-surajs-projects-6210c8d8.vercel.app/api?username=suraj15march&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Suraj's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats-surajs-projects-6210c8d8.vercel.app/api/top-langs/?username=suraj15march&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" width="40%"/>
-</p>
+</p> -->
 
 <!-- Streak stats — using git-streak-stats (active replacement for herokuapp) -->
 <p align="center">
