@@ -13,7 +13,7 @@
 
 - 🏢 Software Engineer at **IBM India Software Lab**, Bengaluru
 - 🤖 Building **LLM evaluation systems** on Watsonx.governance (LLM-as-a-Judge, RAG metrics)
-- ⚡ Engineered a **Spark batch pipeline** processing **200M+ records/week** at IBM
+- ⚡ Engineered a **Spark batch pipeline** processing **200M+ records/week**
 - 🔭 Currently learning **LangChain · CrewAI · Agentic AI**
 - 🧠 Strong in **DSA (300+ LeetCode)** and **System Design (HLD + LLD)**
 - 📝 Published on Medium: [Lua Scripting in Fluent-Bit-Filter-Plugin](https://medium.com/@suraj15march/adding-custom-labels-to-log-lines-using-lua-scripting-in-fluent-bit-filter-plugin-a7dbdeb9ab56)
@@ -81,8 +81,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj15march&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Suraj's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj15march&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats-surajs-projects-6210c8d8.vercel.app/api?username=suraj15march&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Suraj's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-surajs-projects-6210c8d8.vercel.app/api/top-langs/?username=suraj15march&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" width="40%"/>
 </p>
 
 <!-- Streak stats — using git-streak-stats (active replacement for herokuapp) -->
