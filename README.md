@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <i>Open to SDE2 opportunities at product-based companies · Bengaluru / Remote</i>
+  <i>Open to SDE2 opportunities at product-based companies · Bengaluru, India</i>
 </p>
