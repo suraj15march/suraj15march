@@ -12,12 +12,12 @@
 ### 👨‍💻 About Me
 
 - 🏢 Software Engineer at **IBM India Software Lab**, Bengaluru
+- 🎯 Targeting **SDE2 roles** at product-based companies
+- 🧠 Strong in **DSA (300+ LeetCode)** and **System Design (LLD + HLD)**
 - 🤖 Building **LLM evaluation systems** on Watsonx.governance (LLM-as-a-Judge, RAG metrics)
 - ⚡ Engineered a **Spark batch pipeline** processing **200M+ records/week**
 - 🔭 Currently learning **LangChain · CrewAI · Agentic AI**
-- 🧠 Strong in **DSA (300+ LeetCode)** and **System Design (HLD + LLD)**
 - 📝 Published on Medium: [Lua Scripting in Fluent-Bit-Filter-Plugin](https://medium.com/@suraj15march/adding-custom-labels-to-log-lines-using-lua-scripting-in-fluent-bit-filter-plugin-a7dbdeb9ab56)
-- 🎯 Targeting **SDE2 roles** at product-based companies
 - 📫 Reach me at **suraj15march@gmail.com**
 
 ---
