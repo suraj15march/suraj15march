@@ -13,7 +13,7 @@
 
 - 🏢 Software Engineer at **IBM India Software Lab**, Bengaluru
 - 🎯 Targeting **SDE2 roles** at product-based companies
-- 🧠 Strong in **DSA (300+ LeetCode)** and **System Design (LLD + HLD)**
+- 🧠 Strong in **DSA (380+ LeetCode)** and **System Design (LLD + HLD)**
 - 🤖 Building **LLM evaluation systems** on Watsonx.governance (LLM-as-a-Judge, RAG metrics)
 - ⚡ Engineered a **Spark batch pipeline** processing **200M+ records/week**
 - 🔭 Currently learning **LangChain · CrewAI · Agentic AI**
