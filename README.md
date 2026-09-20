@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suraj15march&label=Profile%20Views&color=1a56db&style=flat" alt="profile views" />
   <a href="https://medium.com/@suraj15march"><img src="https://img.shields.io/badge/Medium-Published%20Author-black?style=flat&logo=medium" alt="medium"/></a>
-  <a href="https://www.leetcode.com/suraj15march"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-orange?style=flat&logo=leetcode" alt="leetcode"/></a>
+  <a href="https://www.leetcode.com/suraj15march"><img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-orange?style=flat&logo=leetcode" alt="leetcode"/></a>
 </p>
 
 ----
@@ -13,7 +13,7 @@
 
 - 🏢 Software Engineer at **IBM India Software Lab**, Bengaluru
 - 🎯 Targeting **SDE2 roles** at product-based companies
-- 🧠 Strong in **DSA (380+ LeetCode)** and **System Design (LLD + HLD)**
+- 🧠 Strong in **DSA (400+ LeetCode)** and **System Design (LLD + HLD)**
 - 🤖 Building **LLM evaluation systems** on Watsonx.governance (LLM-as-a-Judge, RAG metrics)
 - ⚡ Engineered a **Spark batch pipeline** processing **200M+ records/week**
 - 🔭 Currently learning **LangChain · CrewAI · Agentic AI**
